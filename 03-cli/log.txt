@@ -1,0 +1,3 @@
+CRITICAL hi
+DEBUG bye
+DEBUG byeeee
